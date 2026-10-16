@@ -29,3 +29,8 @@ I'm a software engineer based in Los Angeles, focused on C++, Linux, and real-ti
 | [BHWGame](https://github.com/latownsley/BHWGame) | A 3D platformer in Unreal Engine 5 (C++) using the Gameplay Ability System |
 | [pixelshader](https://github.com/latownsley/pixelshader) | GLSL shaders: cel shading, outlines, posterization, and pixelation |
 | [FightingGame](https://github.com/latownsley/FightingGame) | Team final project: a fighting game where I built the Vs Computer Mode and created the enemy AI |
+
+## Tech I use
+
+C++ · C · Linux · CMake · GLSL · Unreal Engine · Godot · Python · Git
+
