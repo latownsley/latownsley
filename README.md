@@ -30,7 +30,7 @@ My background is unusual: I worked in TV and film development (Netflix's The San
 
 | Project | What it is |
 |---|---|
-| [FieldSimulation](https://github.com/latownsley/fieldsimulation) | A multithreaded month-by-month ecosystem simulation in C++ and OpenMP. Originally an old project, reworked by me: thread-safe seeded random numbers, a proper barrier, and a reproducibility test |
+| [FieldSimulation](https://github.com/latownsley/fieldsimulation) | A multithreaded month-by-month ecosystem simulation in C++ and OpenMP: thread-safe seeded random numbers, a proper barrier, and a reproducibility test |
 | [FightingGame](https://github.com/latownsley/FightingGame) | Team final project: a 3D fighting game where I built the Vs Computer Mode and the enemy AI |
 | [pixelshader](https://github.com/latownsley/pixelshader) | GLSL shaders: cel shading, outlines, posterization and pixelation |
 
